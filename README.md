@@ -12,7 +12,7 @@ https://knative.dev/v0.10-docs/serving/samples/hello-world/helloworld-php/
 
 ===============================
 
-
+     kubectl get svc
      kubectl get nodes
      kubectl get po
      nano nginx-app.yaml
