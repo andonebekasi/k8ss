@@ -1,0 +1,7 @@
+---
+- import_playbook: create-user.yml
+- import_playbook: kube-dependencies.yml
+- import_playbook: init-first-master.yml
+- import_playbook: init-other-master.yml
+- import_playbook: workers.yml
+
