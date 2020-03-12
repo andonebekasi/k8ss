@@ -8,7 +8,7 @@
        line: "{{ item['ip'] }}\t{{ item['names'] | join(' ') }}"
        state: present
      with_items:
-     - ip: 172.31.35.65
+     - ip: 
        names:
        - kube.box.org
    - name: add hosts entry to /etc/hosts
