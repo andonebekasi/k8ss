@@ -7,6 +7,10 @@ https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-ad
 
 
 
+Gunakan folder test utk metallb
+
+
+
 https://knative.dev/v0.10-docs/serving/samples/hello-world/helloworld-php/
 
 
